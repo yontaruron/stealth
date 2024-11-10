@@ -6,9 +6,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/go-rod/rod"
-	"github.com/go-rod/rod/lib/launcher"
-	"github.com/go-rod/stealth"
+	"github.com/yontaruron/rod"
+	"github.com/yontaruron/rod/lib/launcher"
+	"github.com/yontaruron/stealth"
 )
 
 func init() {
